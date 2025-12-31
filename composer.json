@@ -1,7 +1,7 @@
 {
-    "name": "studiobonito/silverstripe-spamprotection-honeypot",
-    "description": "Provide Honeypot spam protection for SilverStripe CMS.",
-    "type": "silverstripe-vendormodule",
+    "name": "hpadev/silverstripe-spamprotection-honeypot",
+    "description": "Provide Honeypot spam protection for SilverStripe CMS. studiobonito/silverstripe-spamprotection-honeypot",
+    "type": "library",
     "keywords": [
         "studiobonito",
         "silverstripe-spamprotection-honeypot",
