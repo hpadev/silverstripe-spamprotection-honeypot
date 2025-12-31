@@ -1,6 +1,6 @@
 {
     "name": "hpadev/silverstripe-spamprotection-honeypot",
-    "description": "Provide Honeypot spam protection for SilverStripe CMS. studiobonito/silverstripe-spamprotection-honeypot",
+    "description": "Provide Honeypot spam protection for SilverStripe CMS. Old name: studiobonito/silverstripe-spamprotection-honeypot",
     "type": "library",
     "keywords": [
         "studiobonito",
